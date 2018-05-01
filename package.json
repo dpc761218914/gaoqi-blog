@@ -74,7 +74,7 @@
     "xss": "*"
   },
   "devDependencies": {
-    "coveralls": "*",
+    "coveralls": ">=3.0.1",
     "errorhandler": "*",
     "istanbul": "*",
     "loader-connect": "*",
