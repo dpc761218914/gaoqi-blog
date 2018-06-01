@@ -80,7 +80,7 @@
     "loader-connect": "*",
     "mm": "*",
     "mocha": "3.4.1",
-    "nock": "*",
+    "nock": ">=9.3.0",
     "pedding": "*",
     "should": "*",
     "supertest": "*"
